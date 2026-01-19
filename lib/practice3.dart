@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Flutter practice - updated structure
 void main() {
   runApp(const flutterApp());
 }
@@ -55,9 +56,7 @@ class _dashboardScreenState extends State<dashboardScreen> {
           //   ),
           // ),
           // ),
-
-//////////////////**************////////////////////
-
+          //////////////////**************////////////////////
           GridView.count(
             crossAxisCount: 3,
             crossAxisSpacing: 10,
