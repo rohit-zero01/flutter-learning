@@ -11,3 +11,5 @@ I am using this project to practice core Flutter concepts such as:
 - Basic state management using setState  
 
 This repo represents my continuous learning journey in Flutter.
+
+More improvements and experiments will be added as I continue learning Flutter.
